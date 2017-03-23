@@ -1,4 +1,4 @@
-# Review apps for Create React Native App and Expo
+# Introducing appr: A New Review Tool for Mobile Developers
 
 ## TL;DR;
 
